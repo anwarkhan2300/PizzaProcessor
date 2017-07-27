@@ -1,0 +1,9 @@
+Your Orders Are Placed in Shorted/Readable Format 
+Bread Pizza Is Ordered @  : 1970-01-18T07:53:25.487
+Meat Pizza Is Ordered @  : 1970-01-18T15:52:56.687
+Pizza Pizza Is Ordered @  : 1970-01-18T07:51:59.087
+VegVeg Pizza Is Ordered @  : 1970-01-18T07:01:35.087
+bread Pizza Is Ordered @  : 1970-01-18T07:07:20.687
+meatMeaT Pizza Is Ordered @  : 1970-01-18T07:01:35.087
+p1zza Pizza Is Ordered @  : 1970-01-18T07:54:51.887
+pizza Pizza Is Ordered @  : 1970-01-18T07:56:18.287
